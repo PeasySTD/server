@@ -1,7 +1,7 @@
 {
   "Name": "Download College Brawl",
-  "ImageURL": "https://raw.githubusercontent.com/PeasySTD/server/main/SERVER/de.png",
-  "SecondImageURL": "https://raw.githubusercontent.com/PeasySTD/server/main/SERVER/de.png",
+  "ImageURL": "https://raw.githubusercontent.com/PeasySTD/server/main/SERVER/de.png?raw=true",
+  "SecondImageURL": "https://raw.githubusercontent.com/PeasySTD/server/main/SERVER/de.png?raw=true",
   "LinkURL": "https://t.co/Q1JKIqftRO",
    "DownloadText"     : "download",
   "GameModesURL"     : "https://drive.google.com/uc?export=download&id=14iSpQjWTbcM--9ja6cIAQG3frhQrFR6i",
